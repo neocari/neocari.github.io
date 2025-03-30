@@ -6,7 +6,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #701b1b;
     text-align: center;}
-/* img */
+/* responsiveness: images */
     img {margin: auto;
         display:block;
         width:40%;
@@ -33,7 +33,7 @@ nav {
 header {
     background-color: #ddd;}
 
-/* flexbox */
+/* responsiveness: flexbox */
 .flex-container {
         display: flex;
         justify-content: space-around;
